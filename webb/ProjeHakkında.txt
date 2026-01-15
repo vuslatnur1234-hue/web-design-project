@@ -1,0 +1,37 @@
+Arche & Symbol – Web Tasarımı Final Projesi
+
+Ders: Web Tasarımı
+Hazırlayan: Vuslat Nur Çeliktepe
+Konu: C. G. Jung psikolojisi ve semboller
+
+Projenin Amacı
+
+Bu proje, Carl Gustav Jung’un arketipler, rüyalar ve sembollerle ilgili görüşlerini temel alan bir web sitesi çalışmasıdır. Amaç, konuyu sadece anlatmak değil, tasarım yoluyla kullanıcıya bir atmosfer de sunmaktır.
+
+Tasarım ve Teknik Yapı:
+
+Site tasarlanırken koyu renkler ve degrade geçişler kullanılarak bilinçdışı ve gizem teması yansıtılmaya çalışılmıştır. Başlıklarda ve butonlarda açık tonlar kullanılarak kontrast sağlanmıştır.
+Başlık fontları daha klasik, metin fontları ise okunabilir olacak şekilde seçilmiştir.
+
+Proje HTML ve CSS ile hazırlanmıştır. Hazır bir framework kullanılmamıştır.
+Flexbox ile sayfa düzeni oluşturulmuş, @media sorguları sayesinde site mobil uyumlu hale getirilmiştir. Kartlar, butonlar ve menülerde hover efektleri kullanılmıştır.
+
+Sayfalar:
+
+Anasayfa
+
+Hakkımızda
+
+Rüyalar
+
+Arketipler
+
+Sembolizm
+
+İletişim
+
+Giriş / Kayıt
+
+Sonuç:
+
+Bu proje, web tasarımı dersi için HTML ve CSS konularını uygulamak amacıyla hazırlanmıştır.
