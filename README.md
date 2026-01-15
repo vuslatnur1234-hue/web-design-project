@@ -44,7 +44,7 @@ an immersive atmosphere through visual design.
 
 - HTML
 - CSS
-- JavaScript (basic interactions)
+
 
 ---
 
